@@ -10,7 +10,7 @@ Illinois lost to Kentucky in the 2025 NCAA March Madness tournament. This projec
 - Provide insights on team style, metrics, and strategy gaps
 
 ## 📂 Files
-- `analysis_notebook.ipynb`: Full analysis (EDA, metrics, comparisons, insights)
+- `Basketball_code_final.ipynb`: Full analysis (EDA, metrics, comparisons, insights)
 - `/Data/`: Contains cleaned and filtered datasets used in the notebook
 
 ## 🧰 Tools & Libraries
